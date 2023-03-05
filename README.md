@@ -1,18 +1,18 @@
-# token-tracker
 # Token System 
 Token is represented by the symbol *#*
 
 ## Creation of Token
-> Create 500 album-crowd-fund#
 
-Sender address is where tokens are created
+> Create 500 airline-ticket-purchase#
+
+Sender address refers to the address where tokens are created
 
 fill-me: show the alternative words people can use 
 
 
 ### What are the constraints?
-* cannot have two numbers
-* cannot have two tokens
+* The command/lines to create tokens/transfer tokens cannot have two numbers
+* The command/lines to create/transfer cannot have two tokens
 
 ### Examples
 'create 10323 shivam#'
